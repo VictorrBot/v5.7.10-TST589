@@ -1,0 +1,133 @@
+[
+  {
+    "index": 1,
+    "rank": "SSS",
+    "misii": "Menaklukan Raja Iblis",
+    "exp": 457477,
+    "healt": 1239,
+    "stamina": 3457,
+    "crystal": 37,
+    "nickname": "Penakluk Raja iblis • ",
+    "point": 28,
+    "gems": 50
+  },
+  {
+    "index": 2,
+    "rank": "F",
+    "misii": "Mencari Crystal",
+    "healt": 10,
+    "stamina": 60,
+    "exp": 10072,
+    "crystal": 3,
+    "nickname": "Crystal Hunter • ",
+    "point": 0,
+    "gems": 0
+  },
+  {
+    "index": 3,
+    "rank": "SS+",
+    "misii": "Taklukan Naga Darkness",
+    "exp": 278938,
+    "healt": 527,
+    "stamina": 778,
+    "crystal": 24,
+    "nickname": "Sang Penakluk Naga Darkness • ",
+    "point": 12,
+    "gems": 25
+  },
+  {
+    "index": 4,
+    "rank": "B+",
+    "misii": "Memusnahkan Desa Orc",
+    "exp": 19647,
+    "healt": 99,
+    "stamina": 110,
+    "crystal": 9,
+    "nickname": "Musuh Para Orc • ",
+    "point": 3,
+    "gems": 2
+  },
+  {
+    "index": 5,
+    "rank": "C+",
+    "misii": "Menyelesaikan Dungeon Berisi Monster Laba laba",
+    "exp": 9889,
+    "healt": 74,
+    "stamina": 86,
+    "crystal": 7,
+    "nickname": "Spider Monster Killer • ",
+    "point": 2,
+    "gems": 1
+  },
+  {
+    "index": 6,
+    "rank": "A+",
+    "misii": "Membuat Ramuan Penyembuh Penyakit 50 Poison",
+    "healt": 10,
+    "stamina": 239,
+    "exp": 36829,
+    "crystal": 15,
+    "nickname": "Alkemis Ramuan Hebat • ",
+    "point": 10,
+    "gems": 10
+  },
+  {
+    "index": 7,
+    "rank": "F",
+    "misii": "Mengumpulkan Foto Erotis",
+    "healt": 0,
+    "stamina": 60,
+    "exp": 20072,
+    "crystal": 3,
+    "nickname": " Mesum •",
+    "point": 0,
+    "gems": 12
+  },
+  {
+    "index": 8,
+    "rank": "SS+",
+    "misii": "Memperkosa Tuan Putri",
+    "exp": 86938,
+    "healt": 90,
+    "stamina": 300,
+    "crystal": 24,
+    "nickname": "Sangean • ",
+    "point": 12,
+    "gems": 5
+  },
+  {
+    "index": 9,
+    "rank": "SSS",
+    "misii": "Membersihkan Dunia Dari Iblis • ",
+    "exp": 398947,
+    "healt": 1837,
+    "stamina": 2286,
+    "crystal": 28,
+    "nickname": "Demon Slayer • ",
+    "point": 3,
+    "gems": 40
+  },
+  {
+    "index": 10,
+    "rank": "SR+",
+    "misii": "Membunuh Raja Midgar",
+    "exp": 192738,
+    "healt": 229,
+    "stamina": 228,
+    "crystal": 7,
+    "nickname": "Pembunuh Raja • ",
+    "point": 2,
+    "gems": 10
+  },
+ {
+    "index": 11,
+    "rank": "E+",
+    "misii": "Memungut Kristal Di Dungeon",
+    "exp": 9900,
+    "healt": 3,
+    "stamina": 100,
+    "crystal": 5,
+    "nickname": "Crystal Picker • ",
+    "point": 0
+  }
+]
